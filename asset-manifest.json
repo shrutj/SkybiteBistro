@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SkybiteBistro/static/css/main.02211e2a.css",
-    "main.js": "/SkybiteBistro/static/js/main.228cf670.js",
+    "main.css": "/SkybiteBistro/static/css/main.880b85ab.css",
+    "main.js": "/SkybiteBistro/static/js/main.7fcfb017.js",
     "static/media/logo.png": "/SkybiteBistro/static/media/logo.f207ba013b8a2ecfcd94.png",
     "static/media/Vintage-chef-character-logo.png": "/SkybiteBistro/static/media/Vintage-chef-character-logo.61f5d27b986abe9d3009.png",
     "static/media/vegetarian-sign.png": "/SkybiteBistro/static/media/vegetarian-sign.7708808d68176c92c4f9.png",
     "index.html": "/SkybiteBistro/index.html",
-    "main.02211e2a.css.map": "/SkybiteBistro/static/css/main.02211e2a.css.map",
-    "main.228cf670.js.map": "/SkybiteBistro/static/js/main.228cf670.js.map"
+    "main.880b85ab.css.map": "/SkybiteBistro/static/css/main.880b85ab.css.map",
+    "main.7fcfb017.js.map": "/SkybiteBistro/static/js/main.7fcfb017.js.map"
   },
   "entrypoints": [
-    "static/css/main.02211e2a.css",
-    "static/js/main.228cf670.js"
+    "static/css/main.880b85ab.css",
+    "static/js/main.7fcfb017.js"
   ]
 }
