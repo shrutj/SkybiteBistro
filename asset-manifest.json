@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/SkybiteBistro/static/css/main.880b85ab.css",
-    "main.js": "/SkybiteBistro/static/js/main.05750539.js",
+    "main.js": "/SkybiteBistro/static/js/main.fbb17457.js",
+    "static/media/Sada Paratha.jpg": "/SkybiteBistro/static/media/Sada Paratha.0bd50669ab88769ec8ba.jpg",
     "static/media/logo.png": "/SkybiteBistro/static/media/logo.f207ba013b8a2ecfcd94.png",
+    "static/media/Sev Onion Paratha.jpg": "/SkybiteBistro/static/media/Sev Onion Paratha.7e67e539371e910c664e.jpg",
+    "static/media/Aloo Paratha.jpg": "/SkybiteBistro/static/media/Aloo Paratha.fdfc1ee6aa46ff5bf0d2.jpg",
+    "static/media/Cheese Paratha.jpg": "/SkybiteBistro/static/media/Cheese Paratha.da8d0cb7953b6ad309f6.jpg",
     "static/media/Vintage-chef-character-logo.png": "/SkybiteBistro/static/media/Vintage-chef-character-logo.61f5d27b986abe9d3009.png",
     "static/media/vegetarian-sign.png": "/SkybiteBistro/static/media/vegetarian-sign.7708808d68176c92c4f9.png",
     "index.html": "/SkybiteBistro/index.html",
     "main.880b85ab.css.map": "/SkybiteBistro/static/css/main.880b85ab.css.map",
-    "main.05750539.js.map": "/SkybiteBistro/static/js/main.05750539.js.map"
+    "main.fbb17457.js.map": "/SkybiteBistro/static/js/main.fbb17457.js.map"
   },
   "entrypoints": [
     "static/css/main.880b85ab.css",
-    "static/js/main.05750539.js"
+    "static/js/main.fbb17457.js"
   ]
 }
